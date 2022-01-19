@@ -1,0 +1,16 @@
+{
+  "images" : [
+    {
+      "filename" : "23093640-empty-painting-frame-on-the-wall-template.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "unit" : "inches",
+    "width" : 7
+  }
+}
